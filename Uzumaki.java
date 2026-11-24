@@ -1,5 +1,5 @@
 public class Uzumaki extends Ninja {
-    public void ativarModoSabio(){
+    public void habilidadeEspecial(){
         System.out.println("Modo Sábio ativado");
     }
 }

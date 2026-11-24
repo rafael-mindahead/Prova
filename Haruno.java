@@ -1,5 +1,5 @@
 public class Haruno extends Ninja {
-    public void ativarCura(){
+    public void habilidadeEspecial(){
         System.out.println("Cura ativada");
     }
 }

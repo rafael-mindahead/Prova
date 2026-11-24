@@ -6,13 +6,19 @@ public class main {
         ninja.idade = 20;
         Uzumaki Naruto = new Uzumaki();
         Naruto.name = "Naruto";
-        Naruto.ativarModoSabio();
+        Naruto.habilidadeEspecial();
         Uchiha Sasuke = new Uchiha();
         Sasuke.name = "Sasuke";
-        Sasuke.ativarSharingan();
+        Sasuke.habilidadeEspecial();
         Haruno Sakura = new Haruno();
         Sakura.name = "Sakura";
-        Sakura.ativarCura();
+        Sakura.habilidadeEspecial();
+        Ninja Rafael = new Ninja();
+        Rafael.name = "Rafael";
+        Rafael.habilidadeEspecial();
+        Ninja isabela = new Uchiha();
+        isabela.name = "Isabela";
+        isabela.habilidadeEspecial();
     }
         
 }

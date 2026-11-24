@@ -1,5 +1,5 @@
 public  class Uchiha extends Ninja{
-    public void ativarSharingan(){
+    public void habilidadeEspecial(){
         System.out.println("Sharingan ativado");
     }
 }
